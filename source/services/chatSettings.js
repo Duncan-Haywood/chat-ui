@@ -5,9 +5,9 @@ import {SETTINGS_CHANGED} from '../constants/settings';
 export const chatSettings = (() => {
     let settings = {
         // Chat title or name of the consultant
-        title: 'John Doe',
+        title: 'Ami',
         // Position or consultant description
-        subtitle: 'consultant',
+        subtitle: '',
         // Avatar image of the consultant - string or boolean
         avatar: false,
         // Text for "send" button in chat window
